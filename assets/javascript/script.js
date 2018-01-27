@@ -197,7 +197,7 @@ function searchQuery(query){
         searchVar +
         ' class="card-subtitle mb-2 text-muted">' +
         searchVar +
-        "</h4><p class='card-text cardtext'>Current Price</p><p class='card-text cardtext' id='current'>$" +
+        "</h4><p class='card-text cardtext'>Current Price</p><p class='card-text cardtext green' id='current'>$" +
         price +
         "</p><p class='card-text cardtext'>Lowest in last 24 Hours</p><p class='card-text cardtext' id='lastWeek'>$" +
         hrChange24 +
